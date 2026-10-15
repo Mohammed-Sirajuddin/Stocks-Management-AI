@@ -1,0 +1,8 @@
+product,stock,reorder_level,selling_price,cost_price,units_sold_30_days
+Rice,12,14,60,50,80
+Cooking Oil,5,10,150,130,65
+Biscuits,40,20,20,14,10
+Soap,8,12,35,25,45
+Shampoo,18,10,120,95,25
+Toothpaste,7,12,80,60,35
+Milk,35,30,62,56,40

@@ -1,0 +1,541 @@
+date,product,units_sold
+2026-07-01,Rice,6
+2026-07-02,Rice,4
+2026-07-03,Rice,7
+2026-07-04,Rice,9
+2026-07-05,Rice,5
+2026-07-06,Rice,4
+2026-07-07,Rice,6
+2026-07-08,Rice,6
+2026-07-09,Rice,6
+2026-07-10,Rice,5
+2026-07-11,Rice,9
+2026-07-12,Rice,9
+2026-07-13,Rice,6
+2026-07-14,Rice,8
+2026-07-15,Rice,7
+2026-07-16,Rice,5
+2026-07-17,Rice,7
+2026-07-18,Rice,6
+2026-07-19,Rice,9
+2026-07-20,Rice,6
+2026-07-21,Rice,6
+2026-07-22,Rice,5
+2026-07-23,Rice,8
+2026-07-24,Rice,6
+2026-07-25,Rice,7
+2026-07-26,Rice,7
+2026-07-27,Rice,7
+2026-07-28,Rice,7
+2026-07-29,Rice,7
+2026-07-30,Rice,7
+2026-07-31,Rice,9
+2026-08-01,Rice,7
+2026-08-02,Rice,7
+2026-08-03,Rice,5
+2026-08-04,Rice,7
+2026-08-05,Rice,8
+2026-08-06,Rice,6
+2026-08-07,Rice,5
+2026-08-08,Rice,7
+2026-08-09,Rice,9
+2026-08-10,Rice,7
+2026-08-11,Rice,7
+2026-08-12,Rice,5
+2026-08-13,Rice,7
+2026-08-14,Rice,7
+2026-08-15,Rice,8
+2026-08-16,Rice,9
+2026-08-17,Rice,7
+2026-08-18,Rice,7
+2026-08-19,Rice,7
+2026-08-20,Rice,7
+2026-08-21,Rice,7
+2026-08-22,Rice,6
+2026-08-23,Rice,8
+2026-08-24,Rice,6
+2026-08-25,Rice,6
+2026-08-26,Rice,6
+2026-08-27,Rice,9
+2026-08-28,Rice,5
+2026-08-29,Rice,10
+2026-08-30,Rice,6
+2026-08-31,Rice,6
+2026-09-01,Rice,7
+2026-09-02,Rice,7
+2026-09-03,Rice,8
+2026-09-04,Rice,8
+2026-09-05,Rice,8
+2026-09-06,Rice,8
+2026-09-07,Rice,8
+2026-09-08,Rice,6
+2026-09-09,Rice,5
+2026-09-10,Rice,5
+2026-09-11,Rice,5
+2026-09-12,Rice,9
+2026-09-13,Rice,9
+2026-09-14,Rice,8
+2026-09-15,Rice,6
+2026-09-16,Rice,7
+2026-09-17,Rice,8
+2026-09-18,Rice,6
+2026-09-19,Rice,9
+2026-09-20,Rice,7
+2026-09-21,Rice,6
+2026-09-22,Rice,6
+2026-09-23,Rice,5
+2026-09-24,Rice,7
+2026-09-25,Rice,6
+2026-09-26,Rice,8
+2026-09-27,Rice,9
+2026-09-28,Rice,7
+2026-07-01,Cooking Oil,5
+2026-07-02,Cooking Oil,4
+2026-07-03,Cooking Oil,4
+2026-07-04,Cooking Oil,6
+2026-07-05,Cooking Oil,4
+2026-07-06,Cooking Oil,3
+2026-07-07,Cooking Oil,3
+2026-07-08,Cooking Oil,3
+2026-07-09,Cooking Oil,5
+2026-07-10,Cooking Oil,3
+2026-07-11,Cooking Oil,5
+2026-07-12,Cooking Oil,7
+2026-07-13,Cooking Oil,4
+2026-07-14,Cooking Oil,5
+2026-07-15,Cooking Oil,3
+2026-07-16,Cooking Oil,4
+2026-07-17,Cooking Oil,3
+2026-07-18,Cooking Oil,5
+2026-07-19,Cooking Oil,7
+2026-07-20,Cooking Oil,3
+2026-07-21,Cooking Oil,5
+2026-07-22,Cooking Oil,5
+2026-07-23,Cooking Oil,4
+2026-07-24,Cooking Oil,3
+2026-07-25,Cooking Oil,6
+2026-07-26,Cooking Oil,5
+2026-07-27,Cooking Oil,5
+2026-07-28,Cooking Oil,5
+2026-07-29,Cooking Oil,7
+2026-07-30,Cooking Oil,4
+2026-07-31,Cooking Oil,3
+2026-08-01,Cooking Oil,6
+2026-08-02,Cooking Oil,6
+2026-08-03,Cooking Oil,6
+2026-08-04,Cooking Oil,6
+2026-08-05,Cooking Oil,5
+2026-08-06,Cooking Oil,6
+2026-08-07,Cooking Oil,3
+2026-08-08,Cooking Oil,5
+2026-08-09,Cooking Oil,5
+2026-08-10,Cooking Oil,4
+2026-08-11,Cooking Oil,3
+2026-08-12,Cooking Oil,6
+2026-08-13,Cooking Oil,5
+2026-08-14,Cooking Oil,3
+2026-08-15,Cooking Oil,5
+2026-08-16,Cooking Oil,6
+2026-08-17,Cooking Oil,6
+2026-08-18,Cooking Oil,7
+2026-08-19,Cooking Oil,8
+2026-08-20,Cooking Oil,5
+2026-08-21,Cooking Oil,4
+2026-08-22,Cooking Oil,4
+2026-08-23,Cooking Oil,6
+2026-08-24,Cooking Oil,4
+2026-08-25,Cooking Oil,4
+2026-08-26,Cooking Oil,4
+2026-08-27,Cooking Oil,5
+2026-08-28,Cooking Oil,6
+2026-08-29,Cooking Oil,6
+2026-08-30,Cooking Oil,6
+2026-08-31,Cooking Oil,4
+2026-09-01,Cooking Oil,3
+2026-09-02,Cooking Oil,4
+2026-09-03,Cooking Oil,5
+2026-09-04,Cooking Oil,7
+2026-09-05,Cooking Oil,6
+2026-09-06,Cooking Oil,7
+2026-09-07,Cooking Oil,4
+2026-09-08,Cooking Oil,4
+2026-09-09,Cooking Oil,4
+2026-09-10,Cooking Oil,4
+2026-09-11,Cooking Oil,8
+2026-09-12,Cooking Oil,5
+2026-09-13,Cooking Oil,7
+2026-09-14,Cooking Oil,4
+2026-09-15,Cooking Oil,6
+2026-09-16,Cooking Oil,5
+2026-09-17,Cooking Oil,5
+2026-09-18,Cooking Oil,5
+2026-09-19,Cooking Oil,6
+2026-09-20,Cooking Oil,7
+2026-09-21,Cooking Oil,5
+2026-09-22,Cooking Oil,4
+2026-09-23,Cooking Oil,4
+2026-09-24,Cooking Oil,5
+2026-09-25,Cooking Oil,7
+2026-09-26,Cooking Oil,7
+2026-09-27,Cooking Oil,6
+2026-09-28,Cooking Oil,5
+2026-07-01,Biscuits,5
+2026-07-02,Biscuits,3
+2026-07-03,Biscuits,2
+2026-07-04,Biscuits,5
+2026-07-05,Biscuits,4
+2026-07-06,Biscuits,5
+2026-07-07,Biscuits,3
+2026-07-08,Biscuits,1
+2026-07-09,Biscuits,1
+2026-07-10,Biscuits,6
+2026-07-11,Biscuits,6
+2026-07-12,Biscuits,4
+2026-07-13,Biscuits,2
+2026-07-14,Biscuits,5
+2026-07-15,Biscuits,1
+2026-07-16,Biscuits,2
+2026-07-17,Biscuits,4
+2026-07-18,Biscuits,3
+2026-07-19,Biscuits,4
+2026-07-20,Biscuits,3
+2026-07-21,Biscuits,4
+2026-07-22,Biscuits,5
+2026-07-23,Biscuits,3
+2026-07-24,Biscuits,4
+2026-07-25,Biscuits,1
+2026-07-26,Biscuits,4
+2026-07-27,Biscuits,2
+2026-07-28,Biscuits,1
+2026-07-29,Biscuits,2
+2026-07-30,Biscuits,3
+2026-07-31,Biscuits,5
+2026-08-01,Biscuits,2
+2026-08-02,Biscuits,4
+2026-08-03,Biscuits,2
+2026-08-04,Biscuits,3
+2026-08-05,Biscuits,5
+2026-08-06,Biscuits,4
+2026-08-07,Biscuits,5
+2026-08-08,Biscuits,4
+2026-08-09,Biscuits,3
+2026-08-10,Biscuits,3
+2026-08-11,Biscuits,4
+2026-08-12,Biscuits,3
+2026-08-13,Biscuits,2
+2026-08-14,Biscuits,3
+2026-08-15,Biscuits,4
+2026-08-16,Biscuits,8
+2026-08-17,Biscuits,6
+2026-08-18,Biscuits,2
+2026-08-19,Biscuits,3
+2026-08-20,Biscuits,1
+2026-08-21,Biscuits,2
+2026-08-22,Biscuits,5
+2026-08-23,Biscuits,6
+2026-08-24,Biscuits,2
+2026-08-25,Biscuits,2
+2026-08-26,Biscuits,0
+2026-08-27,Biscuits,3
+2026-08-28,Biscuits,2
+2026-08-29,Biscuits,3
+2026-08-30,Biscuits,3
+2026-08-31,Biscuits,3
+2026-09-01,Biscuits,1
+2026-09-02,Biscuits,1
+2026-09-03,Biscuits,6
+2026-09-04,Biscuits,1
+2026-09-05,Biscuits,2
+2026-09-06,Biscuits,7
+2026-09-07,Biscuits,8
+2026-09-08,Biscuits,2
+2026-09-09,Biscuits,3
+2026-09-10,Biscuits,4
+2026-09-11,Biscuits,6
+2026-09-12,Biscuits,3
+2026-09-13,Biscuits,4
+2026-09-14,Biscuits,5
+2026-09-15,Biscuits,4
+2026-09-16,Biscuits,3
+2026-09-17,Biscuits,3
+2026-09-18,Biscuits,1
+2026-09-19,Biscuits,4
+2026-09-20,Biscuits,4
+2026-09-21,Biscuits,4
+2026-09-22,Biscuits,3
+2026-09-23,Biscuits,4
+2026-09-24,Biscuits,5
+2026-09-25,Biscuits,4
+2026-09-26,Biscuits,5
+2026-09-27,Biscuits,4
+2026-09-28,Biscuits,3
+2026-07-01,Soap,2
+2026-07-02,Soap,3
+2026-07-03,Soap,2
+2026-07-04,Soap,5
+2026-07-05,Soap,5
+2026-07-06,Soap,3
+2026-07-07,Soap,2
+2026-07-08,Soap,1
+2026-07-09,Soap,4
+2026-07-10,Soap,3
+2026-07-11,Soap,4
+2026-07-12,Soap,1
+2026-07-13,Soap,3
+2026-07-14,Soap,3
+2026-07-15,Soap,1
+2026-07-16,Soap,2
+2026-07-17,Soap,3
+2026-07-18,Soap,3
+2026-07-19,Soap,3
+2026-07-20,Soap,2
+2026-07-21,Soap,2
+2026-07-22,Soap,3
+2026-07-23,Soap,4
+2026-07-24,Soap,0
+2026-07-25,Soap,3
+2026-07-26,Soap,3
+2026-07-27,Soap,3
+2026-07-28,Soap,2
+2026-07-29,Soap,1
+2026-07-30,Soap,3
+2026-07-31,Soap,4
+2026-08-01,Soap,2
+2026-08-02,Soap,4
+2026-08-03,Soap,2
+2026-08-04,Soap,3
+2026-08-05,Soap,2
+2026-08-06,Soap,2
+2026-08-07,Soap,4
+2026-08-08,Soap,4
+2026-08-09,Soap,5
+2026-08-10,Soap,4
+2026-08-11,Soap,3
+2026-08-12,Soap,4
+2026-08-13,Soap,3
+2026-08-14,Soap,3
+2026-08-15,Soap,3
+2026-08-16,Soap,3
+2026-08-17,Soap,2
+2026-08-18,Soap,4
+2026-08-19,Soap,2
+2026-08-20,Soap,3
+2026-08-21,Soap,3
+2026-08-22,Soap,5
+2026-08-23,Soap,4
+2026-08-24,Soap,5
+2026-08-25,Soap,3
+2026-08-26,Soap,1
+2026-08-27,Soap,3
+2026-08-28,Soap,2
+2026-08-29,Soap,3
+2026-08-30,Soap,5
+2026-08-31,Soap,3
+2026-09-01,Soap,2
+2026-09-02,Soap,2
+2026-09-03,Soap,3
+2026-09-04,Soap,2
+2026-09-05,Soap,3
+2026-09-06,Soap,4
+2026-09-07,Soap,4
+2026-09-08,Soap,3
+2026-09-09,Soap,0
+2026-09-10,Soap,3
+2026-09-11,Soap,3
+2026-09-12,Soap,4
+2026-09-13,Soap,5
+2026-09-14,Soap,1
+2026-09-15,Soap,2
+2026-09-16,Soap,3
+2026-09-17,Soap,1
+2026-09-18,Soap,4
+2026-09-19,Soap,4
+2026-09-20,Soap,4
+2026-09-21,Soap,2
+2026-09-22,Soap,4
+2026-09-23,Soap,4
+2026-09-24,Soap,3
+2026-09-25,Soap,3
+2026-09-26,Soap,4
+2026-09-27,Soap,3
+2026-09-28,Soap,3
+2026-07-01,Shampoo,1
+2026-07-02,Shampoo,2
+2026-07-03,Shampoo,2
+2026-07-04,Shampoo,1
+2026-07-05,Shampoo,2
+2026-07-06,Shampoo,3
+2026-07-07,Shampoo,1
+2026-07-08,Shampoo,1
+2026-07-09,Shampoo,2
+2026-07-10,Shampoo,2
+2026-07-11,Shampoo,2
+2026-07-12,Shampoo,3
+2026-07-13,Shampoo,2
+2026-07-14,Shampoo,2
+2026-07-15,Shampoo,2
+2026-07-16,Shampoo,3
+2026-07-17,Shampoo,1
+2026-07-18,Shampoo,0
+2026-07-19,Shampoo,3
+2026-07-20,Shampoo,1
+2026-07-21,Shampoo,2
+2026-07-22,Shampoo,3
+2026-07-23,Shampoo,0
+2026-07-24,Shampoo,1
+2026-07-25,Shampoo,1
+2026-07-26,Shampoo,1
+2026-07-27,Shampoo,2
+2026-07-28,Shampoo,2
+2026-07-29,Shampoo,2
+2026-07-30,Shampoo,0
+2026-07-31,Shampoo,0
+2026-08-01,Shampoo,2
+2026-08-02,Shampoo,2
+2026-08-03,Shampoo,2
+2026-08-04,Shampoo,2
+2026-08-05,Shampoo,2
+2026-08-06,Shampoo,2
+2026-08-07,Shampoo,2
+2026-08-08,Shampoo,2
+2026-08-09,Shampoo,1
+2026-08-10,Shampoo,1
+2026-08-11,Shampoo,2
+2026-08-12,Shampoo,2
+2026-08-13,Shampoo,1
+2026-08-14,Shampoo,2
+2026-08-15,Shampoo,2
+2026-08-16,Shampoo,2
+2026-08-17,Shampoo,2
+2026-08-18,Shampoo,0
+2026-08-19,Shampoo,1
+2026-08-20,Shampoo,0
+2026-08-21,Shampoo,0
+2026-08-22,Shampoo,1
+2026-08-23,Shampoo,3
+2026-08-24,Shampoo,1
+2026-08-25,Shampoo,2
+2026-08-26,Shampoo,2
+2026-08-27,Shampoo,3
+2026-08-28,Shampoo,2
+2026-08-29,Shampoo,3
+2026-08-30,Shampoo,2
+2026-08-31,Shampoo,1
+2026-09-01,Shampoo,1
+2026-09-02,Shampoo,0
+2026-09-03,Shampoo,1
+2026-09-04,Shampoo,1
+2026-09-05,Shampoo,3
+2026-09-06,Shampoo,3
+2026-09-07,Shampoo,1
+2026-09-08,Shampoo,2
+2026-09-09,Shampoo,1
+2026-09-10,Shampoo,2
+2026-09-11,Shampoo,2
+2026-09-12,Shampoo,1
+2026-09-13,Shampoo,3
+2026-09-14,Shampoo,1
+2026-09-15,Shampoo,1
+2026-09-16,Shampoo,1
+2026-09-17,Shampoo,1
+2026-09-18,Shampoo,2
+2026-09-19,Shampoo,2
+2026-09-20,Shampoo,2
+2026-09-21,Shampoo,2
+2026-09-22,Shampoo,3
+2026-09-23,Shampoo,1
+2026-09-24,Shampoo,1
+2026-09-25,Shampoo,3
+2026-09-26,Shampoo,2
+2026-09-27,Shampoo,3
+2026-09-28,Shampoo,2
+2026-07-01,Toothpaste,2
+2026-07-02,Toothpaste,2
+2026-07-03,Toothpaste,4
+2026-07-04,Toothpaste,4
+2026-07-05,Toothpaste,3
+2026-07-06,Toothpaste,2
+2026-07-07,Toothpaste,3
+2026-07-08,Toothpaste,1
+2026-07-09,Toothpaste,2
+2026-07-10,Toothpaste,2
+2026-07-11,Toothpaste,3
+2026-07-12,Toothpaste,2
+2026-07-13,Toothpaste,1
+2026-07-14,Toothpaste,0
+2026-07-15,Toothpaste,1
+2026-07-16,Toothpaste,2
+2026-07-17,Toothpaste,2
+2026-07-18,Toothpaste,4
+2026-07-19,Toothpaste,4
+2026-07-20,Toothpaste,1
+2026-07-21,Toothpaste,2
+2026-07-22,Toothpaste,2
+2026-07-23,Toothpaste,2
+2026-07-24,Toothpaste,2
+2026-07-25,Toothpaste,3
+2026-07-26,Toothpaste,2
+2026-07-27,Toothpaste,3
+2026-07-28,Toothpaste,1
+2026-07-29,Toothpaste,2
+2026-07-30,Toothpaste,4
+2026-07-31,Toothpaste,2
+2026-08-01,Toothpaste,4
+2026-08-02,Toothpaste,3
+2026-08-03,Toothpaste,3
+2026-08-04,Toothpaste,2
+2026-08-05,Toothpaste,2
+2026-08-06,Toothpaste,1
+2026-08-07,Toothpaste,2
+2026-08-08,Toothpaste,2
+2026-08-09,Toothpaste,3
+2026-08-10,Toothpaste,3
+2026-08-11,Toothpaste,2
+2026-08-12,Toothpaste,2
+2026-08-13,Toothpaste,3
+2026-08-14,Toothpaste,2
+2026-08-15,Toothpaste,4
+2026-08-16,Toothpaste,1
+2026-08-17,Toothpaste,2
+2026-08-18,Toothpaste,0
+2026-08-19,Toothpaste,1
+2026-08-20,Toothpaste,3
+2026-08-21,Toothpaste,3
+2026-08-22,Toothpaste,2
+2026-08-23,Toothpaste,1
+2026-08-24,Toothpaste,0
+2026-08-25,Toothpaste,2
+2026-08-26,Toothpaste,4
+2026-08-27,Toothpaste,3
+2026-08-28,Toothpaste,2
+2026-08-29,Toothpaste,3
+2026-08-30,Toothpaste,1
+2026-08-31,Toothpaste,2
+2026-09-01,Toothpaste,2
+2026-09-02,Toothpaste,2
+2026-09-03,Toothpaste,3
+2026-09-04,Toothpaste,3
+2026-09-05,Toothpaste,3
+2026-09-06,Toothpaste,2
+2026-09-07,Toothpaste,3
+2026-09-08,Toothpaste,4
+2026-09-09,Toothpaste,1
+2026-09-10,Toothpaste,1
+2026-09-11,Toothpaste,3
+2026-09-12,Toothpaste,3
+2026-09-13,Toothpaste,4
+2026-09-14,Toothpaste,2
+2026-09-15,Toothpaste,4
+2026-09-16,Toothpaste,2
+2026-09-17,Toothpaste,2
+2026-09-18,Toothpaste,4
+2026-09-19,Toothpaste,2
+2026-09-20,Toothpaste,2
+2026-09-21,Toothpaste,2
+2026-09-22,Toothpaste,3
+2026-09-23,Toothpaste,1
+2026-09-24,Toothpaste,3
+2026-09-25,Toothpaste,2
+2026-09-26,Toothpaste,4
+2026-09-27,Toothpaste,1
+2026-09-28,Toothpaste,2

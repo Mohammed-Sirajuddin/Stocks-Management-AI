@@ -1,4 +1,4 @@
-# Stocks Management AI — final prototype
+# StockSense AI — final prototype
 
 ## Features
 - Streamlit dashboard
@@ -15,14 +15,14 @@ Open this folder in VS Code. In the terminal, run:
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-
+python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
 If PowerShell blocks activation, use CMD and run:
 ```bat
 .venv\Scripts\activate.bat
-
+python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
@@ -43,5 +43,5 @@ Use one row per product per date. Missing dates are treated as zero by the demo 
 ## ML notes
 The model uses Random Forest regression with lagged sales and calendar features. Evaluation is chronological and reports MAE/RMSE on a holdout period. Compare these metrics against a naive baseline before claiming the ML model is better. A short history, synthetic data, promotions, holidays, stockouts, or missing records can make forecasts unreliable.
 
-
-This code is the software prototype.
+## IBM SkillsBuild submission
+This code is the software prototype. Prepare the required Lean Canvas PDF, Concept Note, and PowerPoint separately, using actual tested results and clearly stating limitations.

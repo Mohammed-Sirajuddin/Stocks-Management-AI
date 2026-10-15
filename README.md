@@ -42,6 +42,3 @@ Use one row per product per date. Missing dates are treated as zero by the demo 
 
 ## ML notes
 The model uses Random Forest regression with lagged sales and calendar features. Evaluation is chronological and reports MAE/RMSE on a holdout period. Compare these metrics against a naive baseline before claiming the ML model is better. A short history, synthetic data, promotions, holidays, stockouts, or missing records can make forecasts unreliable.
-
-## IBM SkillsBuild submission
-This code is the software prototype. Prepare the required Lean Canvas PDF, Concept Note, and PowerPoint separately, using actual tested results and clearly stating limitations.
